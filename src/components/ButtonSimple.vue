@@ -20,7 +20,7 @@ export default {
   props: {
     type: {
       type: String,
-      default: 'save',
+      default: '',
     },
   },
 };
